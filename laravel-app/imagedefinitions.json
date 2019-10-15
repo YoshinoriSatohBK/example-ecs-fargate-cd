@@ -1,10 +1,10 @@
 [
     {
-        "name": "ContainerDefinitionLaravel",
+        "name": "laravel",
         "imageUri": "539459320497.dkr.ecr.ap-northeast-1.amazonaws.com/laravel-app:dummy"
     },
     {
-        "name": "ContainerDefinitionlNginx",
+        "name": "nginx",
         "imageUri": "539459320497.dkr.ecr.ap-northeast-1.amazonaws.com/laravel-app-nginx:dummy"
     }
 ]
