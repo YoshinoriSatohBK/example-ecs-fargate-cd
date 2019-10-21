@@ -1,10 +1,10 @@
 [
     {
         "name": "laravel",
-        "imageUri": "539459320497.dkr.ecr.ap-northeast-1.amazonaws.com/laravel-app:dummy"
+        "imageUri": "539459320497.dkr.ecr.ap-northeast-1.amazonaws.com/laravel-app:825fcec"
     },
     {
         "name": "nginx",
-        "imageUri": "539459320497.dkr.ecr.ap-northeast-1.amazonaws.com/laravel-app-nginx:dummy"
+        "imageUri": "539459320497.dkr.ecr.ap-northeast-1.amazonaws.com/laravel-app-nginx:825fcec"
     }
 ]
